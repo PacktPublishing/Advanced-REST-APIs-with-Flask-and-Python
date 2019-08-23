@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
+
+
+https://werkzeug.palletsprojects.com/en/0.14.x/datastructures/#werkzeug.datastructures.FileStorage

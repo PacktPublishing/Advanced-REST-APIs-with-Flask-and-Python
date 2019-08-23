@@ -1,0 +1,12 @@
+Access the e-book for Section 1 here!
+Welcome to the course once again!
+
+In order to get up to speed, in this section we'll be looking at a basic REST API. It's something we learned about in the introductory course, but I appreciate you may not have taken that course!
+
+To help you with this section, we've written an e-book. You can read it, reference it, or treat it as an extra way to understand the starting code and what goes on in our first REST API.
+
+Access the e-book here.
+
+Together with the videos, it should be plenty to get you acquainted with REST APIs with Flask and Python!
+
+As always, if you have any questions, fire away in the Course Q&A or the Slack channel (which you can join by clicking this link: http://slack.tecla.do)

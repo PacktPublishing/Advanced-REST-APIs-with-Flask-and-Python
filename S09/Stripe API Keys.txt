@@ -1,0 +1,1 @@
+https://dashboard.stripe.com/login?redirect=%2Faccount%2Fapikeys
